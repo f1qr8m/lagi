@@ -7,6 +7,7 @@
   <title>Document</title>
 </head>
 <body>
-  
+  <p>nama saya fiki</p>
+  <p>saya jurusan IT</p>
 </body>
 </html>
